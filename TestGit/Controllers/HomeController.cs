@@ -11,6 +11,7 @@ namespace TestGit.Controllers
         public ActionResult Index()
         {
             string pock1 = "1";
+            string pock2 = "2";
 
             return View();
         }
