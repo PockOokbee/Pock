@@ -20,6 +20,7 @@ namespace TestGit.Controllers
 
         public AccountController()
         {
+            string pock1 = "1";
         }
 
         public AccountController(ApplicationUserManager userManager, ApplicationSignInManager signInManager )
