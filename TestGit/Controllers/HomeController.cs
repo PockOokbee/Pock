@@ -10,7 +10,7 @@ namespace TestGit.Controllers
     {
         public ActionResult Index()
         {
-            string pock1 = "local";
+            string pock1 = "master";
             string pock2 = "2";
             string pock3 = "3";
 
