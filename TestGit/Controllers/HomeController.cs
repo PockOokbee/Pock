@@ -12,6 +12,7 @@ namespace TestGit.Controllers
         {
             string pock1 = "1";
             string pock2 = "2";
+            string pock3 = "3";
 
             return View();
         }
